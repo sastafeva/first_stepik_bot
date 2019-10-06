@@ -1,1 +1,1 @@
-bot: python 3 bot_udar_3.4.py
+bot: python3 bot_udar_3.4.py
